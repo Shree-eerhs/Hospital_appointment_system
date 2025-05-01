@@ -1,1 +1,29 @@
-hello world
+/* 
+    Features:
+    Role-Based Access:
+    1.Admin, Doctor, and Patient panels separately.
+    Patient Management:
+    1.Patient registration with name, age, problem, phone number.
+    2.Auto-generated unique Patient ID and Appointment ID.
+    Doctor Management:
+    1.Doctors categorized as Physician1, Physician2, and Field Specialists.
+    2.Predefined working hours and automatic time slot generation.
+    Appointment Booking:
+    1.Patients select doctor and date.
+    2.System automatically allocates the next available time slot.[Improvisation: User-prefferd time slot selection]
+    3.Displays confirmation with full appointment details.
+    Doctor Schedule Viewing:
+    1.Doctors can view their own schedule by entering Doctor ID and Date.
+    Admin Overview:
+    1.Admin can view list of all booked appointments.
+    
+    Data Structures Used:
+    vector for managing doctors and all patient appointments.  
+    map for storing doctor schedules date-wise.
+
+Unique Appointment Handling:
+
+Every appointment gets a unique appointment number.
+
+*/
+
