@@ -21,5 +21,10 @@
     vector for managing doctors and all patient appointments.  
     map for storing doctor schedules date-wise.
 
+
+Features yet to be included!
+1.Reschedule appointments
+2.Cancel appointments
+
 */
 
