@@ -21,9 +21,5 @@
     vector for managing doctors and all patient appointments.  
     map for storing doctor schedules date-wise.
 
-Unique Appointment Handling:
-
-Every appointment gets a unique appointment number.
-
 */
 
